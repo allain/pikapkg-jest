@@ -1,0 +1,15 @@
+{
+  "name": "databatcher",
+  "version": "0.1.0",
+  "description": "The ideas of DataLoader applied to both loading and saving",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Allain Lalonde <allain.lalonde@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
